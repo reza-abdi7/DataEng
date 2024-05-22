@@ -10,12 +10,11 @@ This project is designed to ingest NYC Taxi and Limousine Commission (TLC) Trip 
 
 ## Project Structure
 
-
-    .
-    ├── docker-compose.yaml
-    ├── Dockerfile
-    ├── ingest_data.py
-    └── README.md
+.
+ ├── docker-compose.yaml
+ ├── Dockerfile
+ ├── ingest_data.py
+ └── README.md
 
 
 ## Getting Started
