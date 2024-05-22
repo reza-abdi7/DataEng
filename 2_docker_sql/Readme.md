@@ -9,7 +9,7 @@ This project is designed to ingest NYC Taxi and Limousine Commission (TLC) Trip 
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
 ## Project Structure
-
+****
 ```
     .
     ├── docker-compose.yaml  # Defines and configures Docker services
@@ -17,7 +17,7 @@ This project is designed to ingest NYC Taxi and Limousine Commission (TLC) Trip 
     ├── ingest_data.py       # Python script to download and ingest data
     └── README.md            # This file (project documentation)
 ```
-
+```
 ## Getting Started
 
 Follow these steps to set up and run the project:
