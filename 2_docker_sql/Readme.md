@@ -10,10 +10,10 @@ This project is designed to ingest NYC Taxi and Limousine Commission (TLC) Trip 
 
 ## Project Structure
 .
-├── docker-compose.yaml
-├── Dockerfile
-├── ingest_data.py
-└── README.md
+    ├── docker-compose.yaml
+    ├── Dockerfile
+    ├── ingest_data.py
+    └── README.md
 
 ## Getting Started
 
@@ -109,7 +109,4 @@ docker run -it --rm ny_taxi_ingest \
 - Verify that the services are up and running using `docker-compose ps`.
 - Check the logs for any errors using `docker-compose logs`.
 
-## License
-
-This project is licensed under the MIT License.
 ```
