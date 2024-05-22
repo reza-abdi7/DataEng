@@ -10,7 +10,7 @@ This project is designed to ingest NYC Taxi and Limousine Commission (TLC) Trip 
 
 ## Project Structure
 
-```
+
 ```
     .
     ├── docker-compose.yaml  # Defines and configures Docker services
