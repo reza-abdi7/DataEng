@@ -4,10 +4,10 @@
 This project is designed to ingest NYC Taxi and Limousine Commission (TLC) Trip Record Data into a PostgreSQL database using Docker. The setup includes PostgreSQL and pgAdmin services, and a Python script to download and insert data into the database.
 
 ## Prerequisites
-
+```
 - [Docker](https://docs.docker.com/get-docker/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
-
+```
 ## Project Structure
 
 
