@@ -113,4 +113,3 @@ docker run -it --rm ny_taxi_ingest \
 - Verify that the services are up and running using `docker-compose ps`.
 - Check the logs for any errors using `docker-compose logs`.
 
-```
